@@ -178,20 +178,23 @@
       "website": "https://cookie-jar-two.vercel.app",
       "demo": "https://cookie-jar-two.vercel.app",
       "github": "https://github.com/Robertbehrmannjr/cookie-jar",
-      "x": null,
+      "x": "https://x.com/robert_behrmann",
       "docs": "https://github.com/Robertbehrmannjr/cookie-jar/blob/master/README.md",
       "video": null
     },
     "media": {
       "logo": "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/logos/cookie-jar.png",
-      "banner": null,
-      "screenshots": []
+      "banner": "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/cookie-jar/banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/cookie-jar/banner.png",
+        "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/cookie-jar/01-tip-form.png"
+      ]
     },
     "team": [
       {
         "name": "Robert Behrmann",
         "role": "Developer",
-        "x": null,
+        "x": "https://x.com/robert_behrmann",
         "github": "https://github.com/Robertbehrmannjr"
       }
     ]
